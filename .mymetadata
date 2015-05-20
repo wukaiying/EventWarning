@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="EventWarning"
+  id="myeclipse.1430266537727"
+  context-root="/EventWarning"
+  j2ee-spec="5.0"
+  archive="EventWarning.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
